@@ -2,20 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <TimeStamp>
-<when>2025-03-11T20:34:43Z</when>
+<when>2025-03-11T21:08:46Z</when>
 </TimeStamp>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Finance</td></tr><tr><td style="padding:5px; text-align:left">Kat Walpole</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Finance</value></Data>
-<Data name="Project Owner"><value>Kat Walpole</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>0.553453,19.436453,0</coordinates>
-</Point>
-</Placemark>
 <Placemark>
 <name>69 Kenworthy Road, London</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
@@ -1973,18 +1961,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Branksea Villa, Lookout</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.45119949275356,50.6050816300745,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Wellesley Recreation Ground, Gt Yarmouth</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -2042,18 +2018,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-3.46397438372513,54.4912885474088,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Over the Hills, Plush</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Business Development</td></tr><tr><td style="padding:5px; text-align:left">Helen Parr-Phillips</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Business Development</value></Data>
-<Data name="Project Owner"><value>Helen Parr-Phillips</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.39470759589181,50.8211922960561,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -2669,18 +2633,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Lytchett St Mary, Lytchett Matravers</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.0924282682562,50.7673908563969,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Nest Farm Road, Wellingborough</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -2945,18 +2897,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>16 Dawkins Road, Hamworthy</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.02016690768116,50.7207810637056,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Kitebrook Preparatory School, Moreton-in-Marsh</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -3005,18 +2945,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Wessex House, Weymouth</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.48563064958926,50.6178965581162,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Alvescot Lodge, Bampton</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -3026,18 +2954,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-4.95612852428206,53.7008218545713,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Marroway Lane, Witchford</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Civils</td></tr><tr><td style="padding:5px; text-align:left">Tom Leatherland</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Civils</value></Data>
-<Data name="Project Owner"><value>Tom Leatherland</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>279071.21,549547.88,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3125,18 +3041,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Old Hackney Lane, Matlock</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Civils</td></tr><tr><td style="padding:5px; text-align:left">Tom Leatherland</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Civils</value></Data>
-<Data name="Project Owner"><value>Tom Leatherland</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>361735.24,428577.2,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Manor Way Primary School, Brier Mill Road, Halesowen</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -3158,18 +3062,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-4.13176589087775,54.1544084662788,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Corfe Hills School Estate Efficiency Scheme</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.00582845167536,50.7693753602575,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3242,18 +3134,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-5.36080348486433,53.1164127726243,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Upper Marehay Road, Ripley</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Civils</td></tr><tr><td style="padding:5px; text-align:left">Luke Clarke</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Civils</value></Data>
-<Data name="Project Owner"><value>Luke Clarke</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>348432.37,439872.18,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -10661,18 +10541,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Rothwells Farm, Golborne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Hasnain Imtiaz</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Hasnain Imtiaz</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.591297,53.482112,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Holly Lane, Atherstone, Warwickshire</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -11477,18 +11345,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Harvest Rise, Trowbridge</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Larisa Florian</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Larisa Florian</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.188482,51.323026,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Millwood Way, Kings Cliffe, Northamptonshire</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Civils</td></tr><tr><td style="padding:5px; text-align:left">Luke Clarke</td></tr></table>]]>
 </description>
@@ -11582,18 +11438,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-5.53876543862856,54.6950418529531,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Bathgate Silica Sand - south site</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Hasnain Imtiaz</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Hasnain Imtiaz</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.319998,53.148306,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -11846,18 +11690,6 @@
 </ExtendedData>
 <Point>
 <coordinates>0.137553,52.20723,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Haberdashers Adams' School</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.38095,52.769701,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -13085,18 +12917,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Bathgate Silica Sand - silos PoS survey</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.682903155,53.37062883,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Tolbar Academy, New Waltham</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -13382,18 +13202,6 @@
 </ExtendedData>
 <Point>
 <coordinates>0.255998578,52.02194556,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>PCS Stone</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Hasnain Imtiaz</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Hasnain Imtiaz</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.365027985,53.14856981,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -15257,18 +15065,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Forterra Coleford - bucket elevator lifting platform</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">David Biddulph</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>David Biddulph</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.611110284,51.78642465,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>1 Hardys Lane, West Haddon</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">David Biddulph</td></tr></table>]]>
 </description>
@@ -15374,18 +15170,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-4.91432465510878,54.5696852229732,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Tarmac, Bayston Hill - 2023 Level 2 inspection</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.753101157,52.6762848,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -16505,18 +16289,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Forterra Coleford - aggregate bin repairs</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.610854,51.786529,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Gill Mill Quarry - 2023 Structural Inspection</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
 </description>
@@ -16937,18 +16709,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Forterra Coleford Formpave - 2023 inspection</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.610854,51.786529,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>St James' Road, Northampton</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Development Planning</td></tr><tr><td style="padding:5px; text-align:left">Katherine Rose</td></tr></table>]]>
 </description>
@@ -16982,18 +16742,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-2.49105005438161,54.1168916280782,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Oulton Park bridge inspection</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.615100091,53.17744682,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -19613,18 +19361,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Oulton Park Race Track annual inspection (2024)</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.616783951,53.17674392,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>88 Oakley Road</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Danny Barber</td></tr></table>]]>
 </description>
@@ -20141,18 +19877,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Bathgate Silica Sand - north site slurry bowl</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Hasnain Imtiaz</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Hasnain Imtiaz</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.334602181,53.15639633,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Storage Pond Expansion, British Sugar Wissington</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Emma Small</td></tr></table>]]>
 </description>
@@ -20261,18 +19985,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>9 Toby's Court, Shaftesbury</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Clive Evans</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.198913,51.006623,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>HQP - Woodsford Quarry - Surface Water Management</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
 </description>
@@ -20366,18 +20078,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-3.24034315742658,54.140307432658,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Globus Manchester</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Larisa Florian</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Larisa Florian</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.349282052,53.47436919,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -20702,18 +20402,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-6.60209418341464,53.4723302757997,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>FCC Environment - Arpley 2 Waste Transfer Station</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.815541727,53.40470111,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -23537,18 +23225,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Travis Perkins, Mold</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Hasnain Imtiaz</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Hasnain Imtiaz</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>3.144041268,53.1650928,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Willow Way, Ampthill</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -24038,18 +23714,6 @@
 </ExtendedData>
 <Point>
 <coordinates>0.899600309,52.33646753,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Tarmac, Pershore asphalt 2024 Level 1 inspection</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">David Biddulph</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>David Biddulph</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.071634021,52.13081142,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -26705,18 +26369,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Forterra Coleford Formpave - 2024 inspection</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.610854,51.786529,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>CPS Banbury - Refit</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
 </description>
@@ -28409,18 +28061,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Oulton Park Race Track annual inspection (2025)</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value>Structures</value></Data>
-<Data name="Project Owner"><value>Adam Kemp</value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.616783951,53.17674392,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Tarmac Kevin Asphalt Plant - Level 2 Structural Inspection</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
 </description>
@@ -29801,18 +29441,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Tolcarne, Osmington Mills</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.3807843951373,50.6361354081299,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>22 Westminster Road, Poole</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
 </description>
@@ -29846,30 +29474,6 @@
 </ExtendedData>
 <Point>
 <coordinates>0.737288871345554,51.1195352760559,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Rawson Court, High Street, Gillingham</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.27579032064404,51.0380058114003,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>The Old Shirt Factory, Abbey Street, Crewkerne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.78587072034439,50.8799095015727,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -29993,30 +29597,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Teachers Cottage Annex, Upwey</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.48122135639517,50.6658343692699,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Charborough Estate, A31 Works</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.10677853495236,50.7806906690541,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Treetops Circle Hill Road, Crowthorne, Wokingham</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
 </description>
@@ -30029,18 +29609,6 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>Netherleigh Lodge</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.16401709208863,50.8586618428062,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <name>Residential Development at Former Oaklands College, St Albans</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
 </description>
@@ -30050,18 +29618,6 @@
 </ExtendedData>
 <Point>
 <coordinates>-4.96597467623217,54.5172627018086,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Sherborne Hotel, Horsecastles Lane, Sherborne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>2.53303319224625,50.9484751067282,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
