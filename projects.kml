@@ -2,8 +2,44 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <TimeStamp>
-<when>2025-03-12T09:44:17Z</when>
+<when>2025-03-12T13:15:33Z</when>
 </TimeStamp>
+<Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.898764045997011,52.3325377800213,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.18644153928466,51.3275429972365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.74114988573592,51.2494991735125,0</coordinates>
+</Point>
+</Placemark>
 <Placemark>
 <name>69 Kenworthy Road, London</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
@@ -506,6 +542,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.768659977304577,51.8112180036188,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Derwent Street, Belper</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.48765144706972,53.0239587913983,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -1481,6 +1529,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Bradwell Common, Milton Keynes</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.771273478412584,52.0449471352957,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Malting Lane, Donington</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Adam Kemp</td></tr></table>]]>
 </description>
@@ -1913,6 +1973,30 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Tolcarne, Osmington Mills</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.3807843951373,50.6361354081299,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22 Westminster Road, Poole</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.90755883592393,50.7116968277662,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Wellesley Recreation Ground, Gt Yarmouth</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -1922,6 +2006,18 @@
 </ExtendedData>
 <Point>
 <coordinates>1.73597542592097,52.611664586573,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>28 Ravine Road, Poole</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.92059596289124,50.7071296086039,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -1961,6 +2057,42 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Churt Place, Tilford Road, Churt</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.737288871345554,51.1195352760559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rawson Court, High Street, Gillingham</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.27579032064404,51.0380058114003,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Old Shirt Factory, Abbey Street, Crewkerne</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.78587072034439,50.8799095015727,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>West Street, Helpston</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Development Planning</td></tr><tr><td style="padding:5px; text-align:left">Ian McGrane</td></tr></table>]]>
 </description>
@@ -1997,6 +2129,30 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>40 Lakeside Road</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.91433,50.71337,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mallard Road Retail Park, Bournemouth</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>1.8468,50.7484,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Kingston Park South, Peterborough</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -2006,6 +2162,42 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.240501651770604,52.5390513607985,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>16 Green Gardens, Poole</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.97959,50.71341,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>8 Kyrchill Lane, Wimborne</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.96646,50.80817,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oaklands Catholic School, Waterlooville</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.02080910797694,50.869237532732,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -2054,6 +2246,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.985979512061841,52.1314594521582,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SF -  Morval, Ferry Road, Studland - Canopy</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.95394201811792,50.6440670765955,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -2210,6 +2414,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-1.791755,50.719836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Former Coastguard Building, Poole Quay</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.98306,50.71295,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -2801,6 +3017,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>31 Kingsley Avenue, Camberley</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.74332,51.32676,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>38B and 38C Sandecotes Road, Poole</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">Clive Evans</td></tr></table>]]>
 </description>
@@ -2897,6 +3125,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>118 - 128 London Street</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.967463534231995,51.4509018968998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Alvescot Lodge, Bampton</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -2942,6 +3182,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.22556968455127,51.5396460908106,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bargates, Christchurch</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.78124859357211,50.7369685493651,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3050,6 +3302,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-1.51450610688622,51.4035972509743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Teachers Cottage Annex, Upwey</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.48122135639517,50.6658343692699,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3194,6 +3458,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.74448075127409,51.2324135496702,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Charborough Estate, A31 Works</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.10677853495236,50.7806906690541,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3353,6 +3629,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Treetops Circle Hill Road, Crowthorne, Wokingham</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.791440119113018,51.3729289774774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Desborough Avenue, High Wycombe</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -3434,6 +3722,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.62438966385754,52.4363105042007,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Netherleigh Lodge</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.16401709208863,50.8586618428062,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -4493,6 +4793,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Residential Development at Former Oaklands College, St Albans</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.297488314497996,51.7594276560733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Maritime Transport, Park Road, Trafford Park</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -5126,6 +5438,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.426375475880504,52.4707759327912,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sherborne Hotel, Horsecastles Lane, Sherborne</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.53303319224625,50.9484751067282,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -6953,6 +7277,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Red House Lane, Hannington</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.786985758400696,52.3386986726061,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Cobham Rugby and Sports Association</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -7502,6 +7838,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-1.60714806534592,51.9018091300442,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>40 Lakeside Road</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.91433,50.71337,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -8417,6 +8765,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Arena Grosvenor House, Basingstoke</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.07828939506948,51.2677004329007,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Land Opposite Collyns Way, The Drove, Collyweston</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -8822,6 +9182,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-1.38464150425494,52.7165690929189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Barrowby Road, Grantham</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.674103282822254,52.916825027963,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -11453,6 +11825,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Tarmac, Dunbar</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.47174167618407,55.9786469553687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Benns Lane, Terrington St Clement, King's Lynn</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Anthony Paton</td></tr></table>]]>
 </description>
@@ -13589,6 +13973,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>R22 Infrastructure, Hanwood Park, Kettering</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.68101007296045,52.3821124073595,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Princes Risborough School</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Darryl Kelly</td></tr></table>]]>
 </description>
@@ -14705,6 +15101,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.08361019177096,52.9842266496774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Bye Road, Lidlington</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Development Planning</td></tr><tr><td style="padding:5px; text-align:left">Katherine Rose</td></tr></table>]]>
 </description>
@@ -14834,6 +15242,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-1.42527746512392,53.2701091835937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-1.55274876120099,52.5894694843933,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -18017,6 +18437,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Ramsey Road, Warboys</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-8.80621831837267E-02,52.4037962273585,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Princess Diana Park, Banbury</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Geotechnical</td></tr><tr><td style="padding:5px; text-align:left">Lydia Crawford</td></tr></table>]]>
 </description>
@@ -18545,6 +18977,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-2.47174167618407,55.9786469553687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Forterra Measham Red Bank</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">David Biddulph</td></tr></table>]]>
 </description>
@@ -18818,6 +19262,18 @@
 </ExtendedData>
 <Point>
 <coordinates>-0.807156088262009,51.7502927987514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>DO NOT USE</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-0.22604200573054,52.3744872323218,0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -28481,6 +28937,18 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>Goudhurst Vets and Equine Clinic</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Unknown</td></tr><tr><td style="padding:5px; text-align:left">Unknown</td></tr></table>]]>
+</description>
+<ExtendedData>
+<Data name="Project Department"><value>Unknown</value></Data>
+<Data name="Project Owner"><value>Unknown</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>0.459212157,51.10833936,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>Jewson Sheffield (DP)</name>
 <description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Development Planning</td></tr><tr><td style="padding:5px; text-align:left">Katherine Rose</td></tr></table>]]>
 </description>
@@ -28493,471 +28961,15 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
+<name>CVS Bristol - Animal Health Centre</name>
+<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left">Structures</td></tr><tr><td style="padding:5px; text-align:left">David Biddulph</td></tr></table>]]>
 </description>
 <ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
+<Data name="Project Department"><value>Structures</value></Data>
+<Data name="Project Owner"><value>David Biddulph</value></Data>
 </ExtendedData>
 <Point>
-<coordinates>-0.898764045997011,52.3325377800213,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.18644153928466,51.3275429972365,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.74114988573592,51.2494991735125,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Derwent Street, Belper</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.48765144706972,53.0239587913983,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Bradwell Common, Milton Keynes</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.771273478412584,52.0449471352957,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Tolcarne, Osmington Mills</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.3807843951373,50.6361354081299,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>22 Westminster Road, Poole</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.90755883592393,50.7116968277662,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>28 Ravine Road, Poole</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.92059596289124,50.7071296086039,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Churt Place, Tilford Road, Churt</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.737288871345554,51.1195352760559,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Rawson Court, High Street, Gillingham</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.27579032064404,51.0380058114003,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>The Old Shirt Factory, Abbey Street, Crewkerne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.78587072034439,50.8799095015727,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>40 Lakeside Road</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.91433,50.71337,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Mallard Road Retail Park, Bournemouth</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>1.8468,50.7484,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>16 Green Gardens, Poole</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.97959,50.71341,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>8 Kyrchill Lane, Wimborne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.96646,50.80817,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Oaklands Catholic School, Waterlooville</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.02080910797694,50.869237532732,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>SF -  Morval, Ferry Road, Studland - Canopy</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.95394201811792,50.6440670765955,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Former Coastguard Building, Poole Quay</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.98306,50.71295,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>31 Kingsley Avenue, Camberley</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.74332,51.32676,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>118 - 128 London Street</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.967463534231995,51.4509018968998,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Bargates, Christchurch</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.78124859357211,50.7369685493651,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Teachers Cottage Annex, Upwey</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.48122135639517,50.6658343692699,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Charborough Estate, A31 Works</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.10677853495236,50.7806906690541,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Treetops Circle Hill Road, Crowthorne, Wokingham</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.791440119113018,51.3729289774774,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Netherleigh Lodge</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.16401709208863,50.8586618428062,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Residential Development at Former Oaklands College, St Albans</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.297488314497996,51.7594276560733,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Sherborne Hotel, Horsecastles Lane, Sherborne</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.53303319224625,50.9484751067282,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Red House Lane, Hannington</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.786985758400696,52.3386986726061,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>40 Lakeside Road</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.91433,50.71337,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Arena Grosvenor House, Basingstoke</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.07828939506948,51.2677004329007,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Barrowby Road, Grantham</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.674103282822254,52.916825027963,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Tarmac, Dunbar</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.47174167618407,55.9786469553687,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>R22 Infrastructure, Hanwood Park, Kettering</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.68101007296045,52.3821124073595,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.08361019177096,52.9842266496774,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-1.55274876120099,52.5894694843933,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Ramsey Road, Warboys</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-8.80621831837267E-02,52.4037962273585,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-2.47174167618407,55.9786469553687,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>DO NOT USE</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>-0.22604200573054,52.3744872323218,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>Goudhurst Vets and Equine Clinic</name>
-<description> <![CDATA[<table border="0" style="border-collapse:collapse; width:100%;"><tr><td style="padding:5px; text-align:left"></td></tr><tr><td style="padding:5px; text-align:left"></td></tr></table>]]>
-</description>
-<ExtendedData>
-<Data name="Project Department"><value></value></Data>
-<Data name="Project Owner"><value></value></Data>
-</ExtendedData>
-<Point>
-<coordinates>0.459212157,51.10833936,0</coordinates>
+<coordinates>-2.587105141,51.48343695,0</coordinates>
 </Point>
 </Placemark>
 </Document>
